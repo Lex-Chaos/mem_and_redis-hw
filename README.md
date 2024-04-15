@@ -46,5 +46,6 @@
 Ответ:
 
 Работа с числами:
+
 ![Работа с числами](https://github.com/Lex-Chaos/mem_and_redis-hw/blob/main/img/Task5_integer.png)
 
